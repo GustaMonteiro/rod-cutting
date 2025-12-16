@@ -136,6 +136,8 @@ pub fn test_rod_cutting_variant(
             received,
             elapsed.as_nanos()
         );
+
+        println!("");
     }
 
     println!("");

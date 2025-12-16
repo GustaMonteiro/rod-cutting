@@ -1,6 +1,7 @@
 mod dynamic_programming;
 mod memoization;
 mod recursive;
+mod retrieve_best_cuts;
 mod tests;
 
 use crate::dynamic_programming::rod_cutting_dp;
